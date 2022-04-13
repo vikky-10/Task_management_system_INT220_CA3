@@ -9,15 +9,13 @@
 
 Username: logan
 Password: password
-
-Username: christine
-Password: password
+ 
 
 
 **Admin Login Details**
 
-Username: admin
-Password: codeastro
+Username: @vikky
+Password: vikky123
 
 
 NOTE: after creating new account for the employees, you'll get a random generated
